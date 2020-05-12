@@ -1,7 +1,7 @@
 # INTRODUCTION TO DATA SCIENCE IN PYTHON COURSE 1
 
 This course introduces the basics of the python programming environment, including python programming techniques such as lambdas,
-reading and manipulating csv files, and the numpy library. The course introducse data manipulation and cleaning techniques using the popular
-python pandas data science library and the abstraction of the Series and DataFrame as the central data structures for data analysis,
-along with tutorials on how to use functions such as groupby, merge, and pivot tables effectively.
+reading and manipulating csv files, and the numpy library. The course introducse data manipulation and cleaning techniques
+using the popular python pandas data science library and the abstraction of the Series and DataFrame as the central data structures
+for data analysis, along with tutorials on how to use functions such as groupby, merge, and pivot tables effectively.
 
