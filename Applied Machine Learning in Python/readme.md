@@ -2,7 +2,7 @@
 Learning Outcome :
 
  - Extract and select object features.
- - Creating Supervised Machine learnining Models.
+ - Creating Supervised Machine learning Models.
  - Evaluating Models
     1.	Learn how to use a variety of evaluation metrics to evaluate supervised machine learning models
     2.	Learn about choosing the right metric for selecting between models or for doing parameter tuning
